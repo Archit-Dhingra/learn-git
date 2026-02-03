@@ -3,5 +3,5 @@
 My name is Archit Dhingra
 
 ```javascript
-console.log("Hello World);
+console.log("Hello World");
 ```
